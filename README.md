@@ -1,7 +1,9 @@
 ### Hi there and welcome to my GitHub page👋
 
-My name is Dev Prakash Thapliyal and I am Data Analytics student at Arden University, Berlin.  
-I do a lot of things, some of which you might find interesting and insightful.
+My name is Dev Prakash Thapliyal and I am Data Analytics student at Arden University, Berlin.
+I do data analysis and visualizatio. Finding new insights from data and presenting them as a story is something I like doing. You can check out my linkedin at https://www.linkedin.com/in/dev-prakash-thapliyal-659ba11a9/.
+
+[![Dev-analysis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-analysis)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
