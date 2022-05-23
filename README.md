@@ -4,7 +4,7 @@
 My name is Dev Prakash Thapliyal and I am pursing master's in Data Analytics at Arden University, Berlin.
 I do data analysis and visualization. Finding new insights from data and presenting them as a story is something I like doing.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dev-analysis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dev-prakash-thapliyal-659ba11a9//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dev-analysis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](linkedin.com/in/dev-prakash-thapliyal-659ba11a9)  
 
 
 ---
