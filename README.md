@@ -32,7 +32,5 @@ I do data analysis and visualization. Finding new insights from data and present
 
 ---
 
-## My High 5's
 
-https://high5test.com/test/result-your-friend/MjI4NjUyNA==
 
